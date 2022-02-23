@@ -1,0 +1,163 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.mission-btn {
+  font-size: 16px;
+  background: #ee5253;
+  color: #fff;
+  text-decoration: none;
+  padding: 15px 40px;
+  border-radius: 5px;
+}
+.mission-btn:hover {
+  background-color: #ff9f43;
+}
+section {
+  padding-bottom: 80px;
+}
+.section-title h2 {
+  font-size: 45px;
+  color: #222f3e;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.section-title span {
+  color: #ff9f43;
+}
+/* Banner */
+.container {
+  padding: 0 5%;
+}
+.row {
+  display: flex;
+}
+.focused-content {
+  width: 50%;
+  padding-right: 10%;
+  margin-top: 60px;
+}
+.focused-heading {
+  border-left: 3px solid #ee5253;
+}
+.focused-heading h1 {
+  font-size: 60px;
+  padding-left: 10px;
+  color: #222f3e;
+}
+.focused-heading h1 span {
+  color: #ff9f43;
+}
+.focused-text p {
+  margin-bottom: 40px;
+}
+.focused-text #small-text {
+  font-size: 14px;
+  margin-top: 40px;
+}
+.focused-img {
+  width: 50%;
+  text-align: center;
+}
+.focused-img img {
+  width: 80%;
+}
+/* Mission */
+.mission-area img {
+  width: 50%;
+  height: auto;
+}
+.mission-area h3 {
+  font-size: 22px;
+}
+.mission-area .mission {
+  background: #dcdde1;
+  padding: 30px;
+  margin: 0 10px;
+  border-radius: 25px;
+}
+.mission-area .vission {
+  background: #ffeaa7;
+  padding: 30px;
+  margin: 0 10px;
+  border-radius: 25px;
+}
+.mission-area .goals {
+  background: #fab1a0;
+  padding: 30px;
+  margin: 0 10px;
+  border-radius: 25px;
+}
+/* Develop */
+.develop-area {
+  background-image: url("images/shapes/shape-1.png");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 15%;
+}
+.develop-area .develop-img {
+  width: 40%;
+}
+.develop-area img {
+  width: 100%;
+}
+.develop-area .develop-content {
+  width: 60%;
+  padding-left: 5%;
+}
+.develop-area .develop-content h2 {
+  font-size: 40px;
+  color: #222f3e;
+}
+.develop-area .develop-content p {
+  margin-bottom: 40px;
+}
+/* Community */
+.community-area {
+  background-image: url("images/shapes/shape-1.png");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 10%;
+  padding-bottom: 50px;
+}
+.community-area .community-content {
+  padding-right: 5%;
+  padding-left: 0;
+}
+.community-area img {
+  width: 100%;
+}
+/* About */
+.about-area .about-img {
+  width: 50%;
+}
+.about-area .about-img img {
+  width: auto;
+  text-align: center;
+  align-items: center;
+  height: 400px;
+  margin-left: 50px;
+}
+.about-area .about-content {
+  width: 50%;
+}
+/* Footer */
+.footer-area {
+  background-color: #353b48;
+  padding: 30px;
+}
+.footer-content {
+  text-align: center;
+}
+.footer-content h2 {
+  color: #fff;
+  font-size: 50px;
+}
+.footer-content span {
+  color: #ff9f43;
+}
+.footer-content p {
+  color: #bdc3c7;
+  font-size: 25px;
+}
